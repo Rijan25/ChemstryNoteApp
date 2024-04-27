@@ -1,6 +1,5 @@
 import 'package:chemistryapp/core/services/model/searchnotesmodel.dart';
 import 'package:chemistryapp/core/services/searchhttp/basesearchhttp.dart';
-import 'package:chemistryapp/core/services/searchhttp/getsearchnote.dart';
 import 'package:chemistryapp/pages/notesdetail.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
